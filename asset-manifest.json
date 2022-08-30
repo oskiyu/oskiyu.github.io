@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f6cf02f.css",
+    "main.js": "/static/js/main.5518f21a.js",
+    "static/media/bloom0.png": "/static/media/bloom0.0b4dfa83409afdd4e0b0.png",
+    "static/media/bloom1.png": "/static/media/bloom1.c20826948491834d4c8b.png",
+    "static/media/car0.png": "/static/media/car0.016ba8127f673a055367.png",
+    "static/media/apis.png": "/static/media/apis.6287e09d4a0f52369950.png",
+    "static/media/tesselationComparison.png": "/static/media/tesselationComparison.bb56654e308a732bbc59.png",
+    "static/media/comment.png": "/static/media/comment.73f2bc6f14235cfa5cf3.png",
+    "static/media/card.png": "/static/media/card.b34a38d2520900c2db4d.png",
+    "static/media/ecs.png": "/static/media/ecs.5fe577f963f5dcf7c75c.png",
+    "static/media/oskGamesProf.png": "/static/media/oskGamesProf.427407fbb4e1898ea656.png",
+    "index.html": "/index.html",
+    "main.9f6cf02f.css.map": "/static/css/main.9f6cf02f.css.map",
+    "main.5518f21a.js.map": "/static/js/main.5518f21a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6cf02f.css",
+    "static/js/main.5518f21a.js"
+  ]
+}
